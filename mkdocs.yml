@@ -1,0 +1,13 @@
+site_name: VSTS Deployment Guide
+repo_url: https://github.com/codito/vsts-deploy
+pages:
+    - Home: index.md
+    #- Getting started: getting-started.md
+    - Concepts: concepts.md
+    - Specify Target Machines: target-machines.md
+    - Configure Connections: configure-connections.md
+    #- Specify Service Endpoints: service-endpoints.md
+    - Patterns: patterns.md
+    - Tasks: tasks.md
+    #- Contributions: contribute.md
+theme: readthedocs
