@@ -1,4 +1,6 @@
 # Tasks
+This section is a work in progress. We gladly accept
+[contributions](/contribute).
 
 ## Built-in tasks
 
@@ -6,6 +8,7 @@
 
 ## Build, debug, test
 
-## Publish a task
+## Using the Deployment Libraries for Remote Tasks
 
+## Publish a task
 
