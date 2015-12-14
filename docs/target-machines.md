@@ -71,7 +71,7 @@ for your account with this url:
 `https://youraccount.visualstudio.com/DefaultCollection/yourProject/_machines`.
 
 ### Add a set of machines
-![concepts-machine-hub](assets/images/getting-started-rm-3.png)
+![concepts-machine-hub](assets/images/target-machines-hub.png)
 
 *Figure: Adding a list of machines in Machine Hub*
 

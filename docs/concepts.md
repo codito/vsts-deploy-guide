@@ -112,9 +112,13 @@ and then move onto the configuration in case of a new machine (dynamic
 provisioning).
 
 ## Service endpoints
+TODO - provide a brief overview
+
 https://msdn.microsoft.com/Library/vs/alm/Release/author-release-definition/understanding-tasks#Serviceendpoints
 
 ## Tasks variables
+TODO - provide a brief overview
+
 https://msdn.microsoft.com/Library/vs/alm/Release/author-release-definition/understanding-tasks#Pre_definedvariables
 
 

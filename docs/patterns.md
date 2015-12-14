@@ -1,11 +1,15 @@
 # Deployment Patterns
+This section is a work in progress. We gladly accept
+[contributions](/contribute).
 
-## Deployment to machines on premise
+## Topology: Deployment to machines on premise
 
-## Deployment to Azure
+## Topology: Deployment to Azure
 
-## Hybrid deployment
+## Topology: Deployment to a hybrid topology
 
-## Rollbacks
+## Strategy: Rolling deployments
 
-## Provisioning machines for test
+## Strategy: Rollbacks in delivery pipeline
+
+## Strategy: Continous Integration, Functional Tests and Delivery
