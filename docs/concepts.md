@@ -1,8 +1,6 @@
 # Concepts
-We will go over the various concepts related to deployments in VSTS in this
-section.
-
-VSTS Deployment system operates on the following high level concepts.
+Visual Studio Team Sservices Deployment system operates on the following high
+level concepts.
 
 ![concepts-overview](assets/images/concepts-overview.png)
 
@@ -111,13 +109,16 @@ We will start with the case of configuring WinRM connection on a local machine
 and then move onto the configuration in case of a new machine (dynamic
 provisioning).
 
+We will go over the details on configuring connections in a [subsequent
+section](/configure-connections).
+
 ## Service endpoints
-TODO - provide a brief overview
+TODO - just provide a brief overview, MSDN docs are great
 
 https://msdn.microsoft.com/Library/vs/alm/Release/author-release-definition/understanding-tasks#Serviceendpoints
 
-## Tasks variables
-TODO - provide a brief overview
+## Variables
+TODO - just provide a brief overview, MSDN docs are great
 
 https://msdn.microsoft.com/Library/vs/alm/Release/author-release-definition/understanding-tasks#Pre_definedvariables
 

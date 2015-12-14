@@ -123,12 +123,8 @@ At this point, we're all set to queue a release.
 
 ## Where Next?
 
-Congrats on creating your first Deployment pipeline! Move onto the [concepts][]
+Congrats on creating your first Deployment workflow! Move onto the [concepts][]
 section to understand more.
-
-Usual legalese, this doc is unofficial. The official docs are here:
-[http://aka.ms/rmpreview](http://aka.ms/rmpreview). This website or contents are
-not associated with (nor endorsed by) Microsoft in any way.
 
 [concepts]: /concepts
 [target-machines]: /target-machines
