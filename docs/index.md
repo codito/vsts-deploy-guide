@@ -68,7 +68,7 @@ Click on *Manage Queues* to move to the page shown below. Let's download and con
 
 ### Add a remote powershell task
 
-![getting-started-rm-3-1](assets/images/getting-started-rm-3-1.png)
+![getting-started-rm-4](assets/images/getting-started-rm-4.png)
 
 *Figure: Add the remote powershell task*
 
@@ -124,7 +124,7 @@ At this point, we're all set to queue a release.
 ## Where Next?
 
 Congrats on creating your first Deployment workflow! Move onto the [concepts][]
-section to understand more.
+section to learn more.
 
 [concepts]: /concepts
 [target-machines]: /target-machines
