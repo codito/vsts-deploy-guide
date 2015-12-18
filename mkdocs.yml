@@ -1,5 +1,5 @@
 site_name: VSTS Deployment Guide
-repo_url: https://github.com/codito/vso-deploy-guide
+repo_url: https://github.com/codito/vsts-deploy-guide
 theme: readthedocs
 pages:
     - Home: index.md
@@ -10,3 +10,4 @@ pages:
     - Deployment Patterns: patterns.md
     - Tasks: tasks.md
     - Contribution Guide: contribute.md
+google-analytics: ["UA-66268-8", "vsts-deploy-guide.readthedocs.com"]

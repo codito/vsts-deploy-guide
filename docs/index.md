@@ -9,11 +9,10 @@ Later in this guide, we will walk through some deployment related [concepts][],
 then [specify][target-machines] the deployment machines,
 [configure][configure-connections] them and so on. Feel free to explore around.
 
-If you've been here earlier, you may check out the [changelog][] to check new
-additions.
-
 This guide is a product of the community. You can [contribute][] too! We gladly
 accept any improvements and ideas :)
+
+Please read the [disclaimer][].
 
 ---
 
@@ -126,8 +125,18 @@ At this point, we're all set to queue a release.
 Congrats on creating your first Deployment workflow! Move onto the [concepts][]
 section to learn more.
 
+## Disclaimer
+This guide intends to share tips and tricks related to products we
+love. It hopes to make life easier.
+
+It is not official, doesn't offer any warranty of any type. It's not
+related to or endorsed by Microsoft. The official docs are here: [build][],
+[rm][]. Visual Studio, Visual Studio Team System are trademarks of Microsoft.
+
 [concepts]: /concepts
 [target-machines]: /target-machines
 [configure-connections]: /configure-connections
 [contribute]: /contribute
-[changelog]: #changelog
+[disclaimer]: #disclaimer
+[build]: https://msdn.microsoft.com/Library/vs/alm/build/overview
+[rm]: https://msdn.microsoft.com/Library/vs/alm/Release/overview
