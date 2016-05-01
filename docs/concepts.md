@@ -1,5 +1,5 @@
 # Concepts
-Visual Studio Team Sservices Deployment system operates on the following high
+Visual Studio Team Services Deployment system operates on the following high
 level concepts.
 
 ![concepts-overview](assets/images/concepts-overview.png)
